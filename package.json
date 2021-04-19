@@ -1,0 +1,11 @@
+{
+  "name": "child-process",
+  "version": "1.0.0",
+  "description": "exec, execFile, spawn, fork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Udaywal <contact@vaibhav.app>",
+  "license": "ISC"
+}
